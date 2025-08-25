@@ -1,13 +1,16 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT TITLE -->
-<h1 align="center">🚀 XyraFin (AI-Powered DeFi Wealth Management Platform) 💹</h1>
+<h1 align="center">🚀 XyraFin - AI Powered DeFi Wealth Management Platform 💹</h1>
 
 <p align="center">
   <strong>XyraFin helps users manage, invest, and grow their crypto wealth using AI-driven financial intelligence.</strong>  
 </p>
 
----
+<br>
+
+<img width="1600" height="500" alt="xyrafin_readme_banner" src="https://github.com/user-attachments/assets/f3cd2588-132a-4645-a1e8-0e7d99da626b" />
+
 
 ## 📌 Table of Contents
 <details>
