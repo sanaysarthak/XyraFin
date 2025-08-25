@@ -59,7 +59,6 @@ Managing crypto assets across multiple blockchains can be **complex**, **risky**
 | **AI/ML Engine**  | Python (TensorFlow, scikit-learn, Prophet) |
 | **Database**      | MongoDB + IPFS (for decentralized storage) |
 | **Auth**          | Web3Auth, MetaMask, WalletConnect |
-| **Deployment**    | Vercel + Docker |
 
 ---
 
@@ -170,18 +169,6 @@ For a **fully functional on-chain demo**:
 
 3. Follow the Soroban Official Client Docs for proper integration.
 - The UI, wiring, and flows are already in place, making the integration fast and seamless.
-
-
-### **8. Tech Stack**
-
-| **Layer**          | **Technology**                         |
-|---------------------|---------------------------------------|
-| **Smart Contracts** | Soroban (Rust)                        |
-| **Frontend**        | Next.js + Tailwind + Web3.js          |
-| **Backend**         | Node.js + Express + AI Agent          |
-| **Blockchain**      | Stellar + Ethereum + Polygon          |
-| **AI Engine**       | Python + TensorFlow + Scikit-learn    |
-| **Wallet**          | Freighter / MetaMask                  |
 
 
 ---
